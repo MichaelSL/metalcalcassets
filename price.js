@@ -1,4 +1,4 @@
-let remotePrice = {
+remotePrice = {
     date: "2017-04-04T20:10:48.716Z",
     prices: [
         {
